@@ -1,0 +1,18 @@
+no-permission: '&cVous n'avez pas la permission d'utiliser cette commande !'
+already-purchased-item: '&cVous avez déjà acheté cette item !'
+points:
+  points: '&eVous avez &b%points% &epoints !'
+  not-enough: '&cVous n'avez pas assez de points pour acheter cette item !'
+  added: '&aVous avez reçu &e%points% &apoints !'
+  successfully: '&aVous avez acheté &e%itemname% &aavec succès pour &e%points% &apoints'
+language:
+  usage: '&cVeuillez utiliser /language {lang}'
+  already: '&cVous avez déjà installé cette langue !'
+  changed: '&aVous avez changé votre langue sur &b%language%&a!'
+  wait: '&cVous devez attendre &b%seconds% &csecondes pour utiliser /language à nouveau.'
+nickname:
+  usage: '&cVeuillez utiliser /nick {nickname/off}'
+  changed: '&eVotre surnom est maintenant %nickname%'
+  removed: '&eTu n'as plus de surnom.'
+  invalid: '&cPseudo invalide ! Vous ne pouvez utiliser que des lettres, des chiffres et un maximum de 20 caractères.'
+  taken: '&cCe nom est déjà utilisé !'
